@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...someone agency of cybersecurity or 
 - 📫 How to reach me ...you can sendme a message 
 - 😄 Pronouns: ...Hackbat space of conscience
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Always i like to be in continuous deep learning
 
 <!---
 blackshark127/blackshark127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
