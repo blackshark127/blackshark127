@@ -6,6 +6,9 @@
 - 😄 Pronouns: ...Hackbat space of conscience
 - ⚡ Fun fact: ...Always i like to be in continuous deep learning
 
+## Actividad Tema 2 - Lógica difusa
+Incluye el script `tema2_fuzzy.py` para construir funciones de pertenencia, calcular unión, intersección y complemento con muestreo discreto (1–10), y generar tablas y gráficas en PNG. 
+
 <!---
 blackshark127/blackshark127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
